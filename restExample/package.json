@@ -1,0 +1,15 @@
+{
+  "name": "pachet",
+  "version": "1.0.0",
+  "description": "exemplu pachet",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "alexZ",
+  "license": "ISC"
+}

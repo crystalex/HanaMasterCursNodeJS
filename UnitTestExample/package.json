@@ -1,0 +1,15 @@
+{
+  "name": "pachet",
+  "version": "1.0.0",
+  "description": "exemplu pachet",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "start": "node ./index.js"
+  },
+  "keywords": [
+    "unittest"
+  ],
+  "author": "alexZ",
+  "license": "ISC"
+}
